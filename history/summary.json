@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cbso-uat.lenovo.com.ico",
     "slug": "lenovo-cbso-uat",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.52%",
     "uptimeDay": "98.05%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 310,
     "timeDay": 293,
     "timeWeek": 310,
@@ -79,17 +79,19 @@
     "url": "https://lbp.lenovo.com",
     "icon": "https://icons.duckduckgo.com/ip3/lbp.lenovo.com.ico",
     "slug": "lenovo-lbp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 151,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
-    "dailyMinutesDown": {}
+    "time": 309,
+    "timeDay": 177,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2025-03-22": 0
+    }
   }
 ]
