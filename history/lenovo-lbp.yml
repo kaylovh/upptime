@@ -1,7 +1,7 @@
 url: https://lbp.lenovo.com
-status: down
-code: 503
-responseTime: 202
-lastUpdated: 2025-03-22T04:08:45.977Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2025-03-22T04:45:15.406Z
 startTime: 2025-03-17T17:09:29.543Z
 generator: Upptime <https://github.com/upptime/upptime>
