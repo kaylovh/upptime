@@ -1,7 +1,7 @@
 url: https://cbso-uat.lenovo.com
-status: down
-code: 502
-responseTime: 10472
-lastUpdated: 2025-04-14T13:56:06.370Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2025-04-14T15:42:59.298Z
 startTime: 2025-03-17T17:09:28.773Z
 generator: Upptime <https://github.com/upptime/upptime>
