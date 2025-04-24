@@ -103,19 +103,19 @@
     "url": "https://lscs.lenovo.com",
     "icon": "https://icons.duckduckgo.com/ip3/lscs.lenovo.com.ico",
     "slug": "lenovo-lscs",
-    "status": "down",
-    "uptime": "2.33%",
-    "uptimeDay": "2.33%",
-    "uptimeWeek": "2.33%",
-    "uptimeMonth": "2.33%",
-    "uptimeYear": "2.33%",
-    "time": 515,
-    "timeDay": 515,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 1501,
+    "timeDay": 1501,
+    "timeWeek": 1501,
+    "timeMonth": 1501,
+    "timeYear": 1501,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 98
     }
   }
 ]
