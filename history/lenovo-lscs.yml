@@ -1,7 +1,7 @@
 url: https://lscs.lenovo.com
-status: up
-code: 200
-responseTime: 11714
-lastUpdated: 2025-04-24T22:46:58.994Z
+status: down
+code: 403
+responseTime: 395
+lastUpdated: 2025-04-24T22:54:02.280Z
 startTime: 2025-04-24T15:54:18.518Z
 generator: Upptime <https://github.com/upptime/upptime>
