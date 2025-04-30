@@ -13,8 +13,8 @@ sites:
     url: https://cbso-uat.lenovo.com
   - name: LENOVO LBP
     url: https://lbp.lenovo.com
-  - name: LENOVO LSCS
-    url: https://lscs.lenovo.com
+  # - name: LENOVO LSCS
+  #   url: https://lscs.lenovo.com
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
