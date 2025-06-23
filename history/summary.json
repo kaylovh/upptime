@@ -40,19 +40,19 @@
     "url": "https://nas.micropivot.org",
     "icon": "https://icons.duckduckgo.com/ip3/nas.micropivot.org.ico",
     "slug": "nas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 10038,
-    "timeWeek": 2786,
-    "timeMonth": 994,
-    "timeYear": 569,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
+    "time": 570,
+    "timeDay": 6919,
+    "timeWeek": 2552,
+    "timeMonth": 985,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-06-23": 0
+      "2025-06-23": 46
     }
   },
   {
