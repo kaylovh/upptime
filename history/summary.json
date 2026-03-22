@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 233,
-    "timeDay": 134,
-    "timeWeek": 118,
-    "timeMonth": 130,
+    "timeDay": 132,
+    "timeWeek": 124,
+    "timeMonth": 132,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2026-01-18": 68,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2401,
-    "timeDay": 1670,
-    "timeWeek": 2149,
-    "timeMonth": 2400,
+    "timeDay": 2305,
+    "timeWeek": 2212,
+    "timeMonth": 2377,
     "timeYear": 2404,
     "dailyMinutesDown": {
       "2026-02-08": 33
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.83%",
     "time": 603,
-    "timeDay": 342,
-    "timeWeek": 377,
-    "timeMonth": 1798,
+    "timeDay": 232,
+    "timeWeek": 338,
+    "timeMonth": 1796,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2026-02-22": 64,
@@ -81,9 +81,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
     "time": 391,
-    "timeDay": 344,
-    "timeWeek": 277,
-    "timeMonth": 267,
+    "timeDay": 138,
+    "timeWeek": 253,
+    "timeMonth": 266,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2026-03-09": 81,
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lbp.lenovo.com.ico",
     "slug": "lenovo-lbp",
     "status": "up",
-    "uptime": "98.17%",
+    "uptime": "98.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.67%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.15%",
     "time": 341,
-    "timeDay": 291,
-    "timeWeek": 282,
-    "timeMonth": 287,
-    "timeYear": 341,
+    "timeDay": 371,
+    "timeWeek": 253,
+    "timeMonth": 293,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2026-03-14": 235,
       "2026-02-08": 818,
@@ -130,8 +130,7 @@
       "2025-05-18": 750,
       "2025-05-17": 704,
       "2025-04-14": 89,
-      "2025-04-12": 123,
-      "2025-03-22": 182
+      "2025-04-12": 123
     }
   }
 ]
