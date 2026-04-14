@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 227,
-    "timeDay": 148,
-    "timeWeek": 116,
+    "timeDay": 71,
+    "timeWeek": 97,
     "timeMonth": 120,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2396,
-    "timeDay": 2408,
-    "timeWeek": 2495,
-    "timeMonth": 2283,
-    "timeYear": 2397,
+    "time": 2397,
+    "timeDay": 2978,
+    "timeWeek": 2538,
+    "timeMonth": 2296,
+    "timeYear": 2398,
     "dailyMinutesDown": {
       "2026-02-08": 33
     }
@@ -52,14 +52,14 @@
     "slug": "nas",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "60.08%",
+    "uptimeDay": "97.51%",
     "uptimeWeek": "87.60%",
     "uptimeMonth": "97.15%",
     "uptimeYear": "99.59%",
-    "time": 583,
-    "timeDay": 251,
+    "time": 582,
+    "timeDay": 351,
     "timeWeek": 282,
-    "timeMonth": 321,
+    "timeMonth": 320,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2026-04-13": 205,
@@ -84,16 +84,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 393,
-    "timeDay": 351,
-    "timeWeek": 307,
-    "timeMonth": 386,
+    "timeDay": 202,
+    "timeWeek": 285,
+    "timeMonth": 385,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2026-03-09": 81,
       "2026-02-07": 175,
       "2025-07-18": 61,
-      "2025-05-29": 57,
-      "2025-04-14": 107
+      "2025-05-29": 57
     }
   },
   {
@@ -108,10 +107,10 @@
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.15%",
     "time": 342,
-    "timeDay": 421,
-    "timeWeek": 346,
-    "timeMonth": 336,
-    "timeYear": 346,
+    "timeDay": 346,
+    "timeWeek": 350,
+    "timeMonth": 335,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2026-04-11": 332,
       "2026-03-14": 235,
@@ -131,8 +130,7 @@
       "2025-06-21": 100,
       "2025-05-24": 82,
       "2025-05-18": 750,
-      "2025-05-17": 704,
-      "2025-04-14": 89
+      "2025-05-17": 704
     }
   }
 ]
