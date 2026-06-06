@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.micropivot.org.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -100,17 +100,17 @@
     "url": "https://lbp.lenovo.com",
     "icon": "https://icons.duckduckgo.com/ip3/lbp.lenovo.com.ico",
     "slug": "lenovo-lbp",
-    "status": "down",
-    "uptime": "98.07%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "98.01%",
+    "status": "up",
+    "uptime": "98.02%",
+    "uptimeDay": "79.99%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "97.95%",
     "time": 346,
-    "timeDay": 146,
-    "timeWeek": 353,
-    "timeMonth": 302,
-    "timeYear": 342,
+    "timeDay": 157,
+    "timeWeek": 334,
+    "timeMonth": 299,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2025-06-21": 100,
       "2025-07-20": 746,
@@ -132,7 +132,7 @@
       "2026-05-09": 269,
       "2026-05-17": 796,
       "2026-05-16": 714,
-      "2026-06-06": 0
+      "2026-06-06": 288
     }
   }
 ]
