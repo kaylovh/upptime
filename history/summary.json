@@ -100,16 +100,16 @@
     "url": "https://lbp.lenovo.com",
     "icon": "https://icons.duckduckgo.com/ip3/lbp.lenovo.com.ico",
     "slug": "lenovo-lbp",
-    "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "97.97%",
-    "time": 347,
-    "timeDay": 118,
-    "timeWeek": 289,
-    "timeMonth": 302,
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "73.03%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "97.90%",
+    "time": 344,
+    "timeDay": 155,
+    "timeWeek": 282,
+    "timeMonth": 300,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-07-20": 746,
@@ -132,7 +132,7 @@
       "2026-05-17": 796,
       "2026-05-16": 714,
       "2026-06-06": 288,
-      "2026-07-04": 0
+      "2026-07-04": 388
     }
   }
 ]
