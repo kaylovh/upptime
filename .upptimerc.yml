@@ -9,6 +9,8 @@ sites:
     url: https://www.baidu.com
   - name: NAS
     url: https://nas.micropivot.org
+  - name: UP
+    url: https://up.micropivot.org
   - name: LENOVO CBSO UAT
     url: https://cbso-uat.lenovo.com
   - name: LENOVO LBP
