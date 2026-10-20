@@ -11,8 +11,8 @@ sites:
     url: https://nas.micropivot.org
   - name: UP
     url: https://up.micropivot.org
-  - name: LENOVO CBSO UAT
-    url: https://cbso-uat.lenovo.com
+  - name: LENOVO CBSO
+    url: https://cbso.lenovo.com
   - name: LENOVO LBP
     url: https://lbp.lenovo.com
   # - name: LENOVO LSCS
